@@ -15,7 +15,7 @@
     "@emotion/styled": "^11.11.0",
     "@heroicons/react": "^2.0.18",
     "framer-motion": "^10.16.5",
-    "next": "14.0.2",
+    "next": "^14.0.3",
     "nodemailer": "^6.9.7",
     "react": "^18",
     "react-animated-numbers": "^0.16.0",
